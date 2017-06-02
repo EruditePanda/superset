@@ -24,6 +24,8 @@ and interactive.
 
 [this project used to be named **Caravel**, and **Panoramix** in the past]
 
+This specific repo is intended to provide a way to produce a desktop executable to run everything instead of having users install things on their own. Probably not a use case that most folks encounter but its useful to me.
+
 
 Screenshots & Gifs
 ------------------
